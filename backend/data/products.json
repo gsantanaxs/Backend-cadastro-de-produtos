@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1756831071495",
+    "nome": "iphone 15",
+    "preco": 4000,
+    "descricao": "Celular",
+    "categoria": "Eletrônicos",
+    "imagem": "https://drive.google.com/file/d/1ApvwAvVIncTatp1VsZ56PBEDsQ84rIK9/view?usp=sharing",
+    "createdAt": "2025-09-02T16:37:51.495Z",
+    "updatedAt": "2025-09-02T16:38:17.649Z"
+  },
+  {
+    "id": "1756831297621",
+    "nome": "Relógio",
+    "preco": 300,
+    "descricao": "Relógios De Quartzo Masculinos De Luxo 30m À Prova D'água Relógio Automático Com Data Em Aço Inoxidável Cronógrafos",
+    "categoria": "Eletrônicos",
+    "imagem": "https://drive.google.com/file/d/1aCVMh1mB8_5BTVGv1bDSeI7q-pnJc-hG/view?usp=sharing",
+    "createdAt": "2025-09-02T16:41:37.621Z",
+    "updatedAt": "2025-09-02T16:44:17.267Z"
+  },
+  {
+    "id": "1756831583731",
+    "nome": "Fone de Ouvido",
+    "preco": 120,
+    "descricao": "Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarregável P9 Air Top Casual Esportivo",
+    "categoria": "Eletrônicos",
+    "imagem": "",
+    "createdAt": "2025-09-02T16:46:23.731Z",
+    "updatedAt": "2025-09-02T16:46:23.731Z"
+  },
+  {
+    "id": "1756831644869",
+    "nome": "Vestido Farm",
+    "preco": 480,
+    "descricao": "Vestido Stopper Estampado Lago Do Amor",
+    "categoria": "Roupas",
+    "imagem": "",
+    "createdAt": "2025-09-02T16:47:24.869Z",
+    "updatedAt": "2025-09-02T16:47:24.869Z"
+  },
+  {
+    "id": "1756831702126",
+    "nome": "Saia",
+    "preco": 65,
+    "descricao": "Mini saia preta",
+    "categoria": "Roupas",
+    "imagem": "",
+    "createdAt": "2025-09-02T16:48:22.126Z",
+    "updatedAt": "2025-09-02T16:48:22.126Z"
+  },
+  {
+    "id": "1756831809884",
+    "nome": "Tênis maison margiela",
+    "preco": 7500,
+    "descricao": "Tênis De Cadarço Maison Margiela Tênis De Caminhada",
+    "categoria": "Roupas",
+    "imagem": "",
+    "createdAt": "2025-09-02T16:50:09.884Z",
+    "updatedAt": "2025-09-02T16:50:09.884Z"
+  },
+  {
+    "id": "1756831887880",
+    "nome": "Aparelho De Jantar 20 Peças",
+    "preco": 250,
+    "descricao": "O Aparelho de Jantar Oxford Flat Dunna é um conjunto completo e elegante, ideal para quem busca sofisticação e funcionalidade na mesa. Composto por 20 peças, o conjunto é perfeito para servir refeições completas, oferecendo praticidade e beleza tanto em ocasiões do dia a dia quanto em momentos especiais.",
+    "categoria": "Casa",
+    "imagem": "",
+    "createdAt": "2025-09-02T16:51:27.880Z",
+    "updatedAt": "2025-09-02T16:51:27.880Z"
+  },
+  {
+    "id": "1756831944543",
+    "nome": "Conjunto de Mesa Sala de Jantar",
+    "preco": 780,
+    "descricao": "Movale Conjunto de Mesa Sala de Jantar Miami com 4 Cadeiras Trieste Suede 1,20m Cedro / Off White / Areia",
+    "categoria": "Casa",
+    "imagem": "",
+    "createdAt": "2025-09-02T16:52:24.543Z",
+    "updatedAt": "2025-09-02T16:52:24.543Z"
+  },
+  {
+    "id": "1756831985812",
+    "nome": "Cama King Boreal",
+    "preco": 2600,
+    "descricao": "A Cama King Boreal Flutuante CabeCasa MadeiraMadeira é a escolha perfeita para quem busca um móvel de alta qualidade e design moderno. Com suas laterais e cabeceira estofadas, este modelo traz um toque de sofisticação ao ambiente.",
+    "categoria": "Casa",
+    "imagem": "",
+    "createdAt": "2025-09-02T16:53:05.812Z",
+    "updatedAt": "2025-09-02T16:53:05.812Z"
+  },
+  {
+    "id": "1756832076785",
+    "nome": "Jantar Secreto - Raphael Montes",
+    "preco": 45,
+    "descricao": "Quatro amigos do Paraná que se mudam para o Rio de Janeiro para estudar, mas acabam endividados e sem dinheiro para pagar o aluguel. Para sair do aperto, eles começam a organizar jantares secretos para a elite carioca, que servem um cardápio macabro: carne humana. O grupo se envolve numa espiral de crimes, descobrindo redes de contrabando de corpos e matadouros clandestinos, o que os leva a explorar o lado mais perverso da natureza humana.",
+    "categoria": "Livros",
+    "imagem": "",
+    "createdAt": "2025-09-02T16:54:36.785Z",
+    "updatedAt": "2025-09-02T16:54:43.264Z"
+  },
+  {
+    "id": "1756832134937",
+    "nome": "A Paciente Silenciosa - Alex Michaelides",
+    "preco": 40,
+    "descricao": "\"A Paciente Silenciosa\", de Alex Michaelides, é um thriller psicológico sobre Alicia Berenson, uma pintora que assassina o marido e, desde então, se recusa a falar, tornando-se uma paciente silenciosa num hospital psiquiátrico. O terapeuta Theo Faber fica obcecado em desvendar o mistério e começa a trabalhar na instituição para fazê-la falar, descobrindo segredos que vão além do que ele esperava. O livro é narrado em parte pelo terapeuta e também inclui trechos do diário de Alicia, com a história culminando em um desfecho surpreendente e repleto de reviravoltas.",
+    "categoria": "Livros",
+    "imagem": "",
+    "createdAt": "2025-09-02T16:55:34.937Z",
+    "updatedAt": "2025-09-02T16:55:34.937Z"
+  }
+]
